@@ -1,0 +1,190 @@
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\bin\Debug\net7.0\appsettings.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\bin\Debug\net7.0\Optativo Api.exe
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\bin\Debug\net7.0\Optativo Api.deps.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\bin\Debug\net7.0\Optativo Api.runtimeconfig.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\bin\Debug\net7.0\Optativo Api.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\bin\Debug\net7.0\Optativo Api.pdb
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\obj\Debug\net7.0\Optativo Api.csproj.AssemblyReference.cache
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\obj\Debug\net7.0\Optativo Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\obj\Debug\net7.0\Optativo Api.AssemblyInfoInputs.cache
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\obj\Debug\net7.0\Optativo Api.AssemblyInfo.cs
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\obj\Debug\net7.0\Optativo Api.csproj.CoreCompileInputs.cache
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\obj\Debug\net7.0\Optativo Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\obj\Debug\net7.0\Optativo Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\obj\Debug\net7.0\staticwebassets\msbuild.Optativo Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Optativo Api.props
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Optativo Api.props
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Optativo Api.props
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\obj\Debug\net7.0\scopedcss\bundle\Optativo Api.styles.css
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\obj\Debug\net7.0\Optativo Api.csproj.CopyComplete
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\obj\Debug\net7.0\Optativo Api.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\obj\Debug\net7.0\refint\Optativo Api.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\obj\Debug\net7.0\Optativo Api.pdb
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\obj\Debug\net7.0\Optativo Api.genruntimeconfig.cache
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\obj\Debug\net7.0\ref\Optativo Api.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\bin\Debug\net7.0\Npgsql.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\bin\Debug\net7.0\Infraestructura.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\bin\Debug\net7.0\Servicios.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\bin\Debug\net7.0\Servicios.pdb
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Practica clases\PracticaClase\Optativo Api\bin\Debug\net7.0\Infraestructura.pdb
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\bin\Debug\net7.0\appsettings.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\bin\Debug\net7.0\Optativo Api.exe
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\bin\Debug\net7.0\Optativo Api.deps.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\bin\Debug\net7.0\Optativo Api.runtimeconfig.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\bin\Debug\net7.0\Optativo Api.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\bin\Debug\net7.0\Optativo Api.pdb
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\bin\Debug\net7.0\Npgsql.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\bin\Debug\net7.0\Infraestructura.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\bin\Debug\net7.0\Servicios.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\bin\Debug\net7.0\Servicios.pdb
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\bin\Debug\net7.0\Infraestructura.pdb
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\Optativo Api.csproj.AssemblyReference.cache
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\Optativo Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\Optativo Api.AssemblyInfoInputs.cache
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\Optativo Api.AssemblyInfo.cs
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\Optativo Api.csproj.CoreCompileInputs.cache
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\Optativo Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\Optativo Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\staticwebassets\msbuild.Optativo Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Optativo Api.props
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Optativo Api.props
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Optativo Api.props
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\scopedcss\bundle\Optativo Api.styles.css
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\Optativo Api.csproj.CopyComplete
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\Optativo Api.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\refint\Optativo Api.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\Optativo Api.pdb
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\Optativo Api.genruntimeconfig.cache
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\Tareas\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\ref\Optativo Api.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\bin\Debug\net7.0\appsettings.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\bin\Debug\net7.0\Optativo Api.exe
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\bin\Debug\net7.0\Optativo Api.deps.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\bin\Debug\net7.0\Optativo Api.runtimeconfig.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\bin\Debug\net7.0\Optativo Api.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\bin\Debug\net7.0\Optativo Api.pdb
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\bin\Debug\net7.0\Npgsql.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\bin\Debug\net7.0\Infraestructura.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\bin\Debug\net7.0\Servicios.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\bin\Debug\net7.0\Servicios.pdb
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\bin\Debug\net7.0\Infraestructura.pdb
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\Optativo Api.csproj.AssemblyReference.cache
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\Optativo Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\Optativo Api.AssemblyInfoInputs.cache
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\Optativo Api.AssemblyInfo.cs
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\Optativo Api.csproj.CoreCompileInputs.cache
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\Optativo Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\Optativo Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\staticwebassets\msbuild.Optativo Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Optativo Api.props
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Optativo Api.props
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Optativo Api.props
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\scopedcss\bundle\Optativo Api.styles.css
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\Optativo Api.csproj.CopyComplete
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\Optativo Api.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\refint\Optativo Api.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\Optativo Api.pdb
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\Optativo Api.genruntimeconfig.cache
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\Tarea Desarrollo de API en .NET Core\Optativo Api\obj\Debug\net7.0\ref\Optativo Api.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\bin\Debug\net7.0\appsettings.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\bin\Debug\net7.0\Optativo Api.exe
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\bin\Debug\net7.0\Optativo Api.deps.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\bin\Debug\net7.0\Optativo Api.runtimeconfig.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\bin\Debug\net7.0\Optativo Api.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\bin\Debug\net7.0\Optativo Api.pdb
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\bin\Debug\net7.0\Npgsql.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\bin\Debug\net7.0\Infraestructura.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\bin\Debug\net7.0\Servicios.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\bin\Debug\net7.0\Servicios.pdb
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\bin\Debug\net7.0\Infraestructura.pdb
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\obj\Debug\net7.0\Optativo Api.csproj.AssemblyReference.cache
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\obj\Debug\net7.0\Optativo Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\obj\Debug\net7.0\Optativo Api.AssemblyInfoInputs.cache
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\obj\Debug\net7.0\Optativo Api.AssemblyInfo.cs
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\obj\Debug\net7.0\Optativo Api.csproj.CoreCompileInputs.cache
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\obj\Debug\net7.0\Optativo Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\obj\Debug\net7.0\Optativo Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\obj\Debug\net7.0\staticwebassets\msbuild.Optativo Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Optativo Api.props
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Optativo Api.props
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Optativo Api.props
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\obj\Debug\net7.0\scopedcss\bundle\Optativo Api.styles.css
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\obj\Debug\net7.0\Optativo Api.csproj.CopyComplete
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\obj\Debug\net7.0\Optativo Api.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\obj\Debug\net7.0\refint\Optativo Api.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\obj\Debug\net7.0\Optativo Api.pdb
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\obj\Debug\net7.0\Optativo Api.genruntimeconfig.cache
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\SegundoParcial\SegundoParcial\Optativo Api\obj\Debug\net7.0\ref\Optativo Api.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\bin\Debug\net7.0\appsettings.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\bin\Debug\net7.0\Optativo Api.exe
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\bin\Debug\net7.0\Optativo Api.deps.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\bin\Debug\net7.0\Optativo Api.runtimeconfig.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\bin\Debug\net7.0\Optativo Api.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\bin\Debug\net7.0\Optativo Api.pdb
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\bin\Debug\net7.0\Npgsql.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\bin\Debug\net7.0\Infraestructura.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\bin\Debug\net7.0\Servicios.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\bin\Debug\net7.0\Servicios.pdb
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\bin\Debug\net7.0\Infraestructura.pdb
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\obj\Debug\net7.0\Optativo Api.csproj.AssemblyReference.cache
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\obj\Debug\net7.0\Optativo Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\obj\Debug\net7.0\Optativo Api.AssemblyInfoInputs.cache
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\obj\Debug\net7.0\Optativo Api.AssemblyInfo.cs
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\obj\Debug\net7.0\Optativo Api.csproj.CoreCompileInputs.cache
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\obj\Debug\net7.0\Optativo Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\obj\Debug\net7.0\Optativo Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\obj\Debug\net7.0\staticwebassets\msbuild.Optativo Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Optativo Api.props
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Optativo Api.props
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Optativo Api.props
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\obj\Debug\net7.0\scopedcss\bundle\Optativo Api.styles.css
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\obj\Debug\net7.0\Optativo Api.csproj.CopyComplete
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\obj\Debug\net7.0\Optativo Api.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\obj\Debug\net7.0\refint\Optativo Api.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\obj\Debug\net7.0\Optativo Api.pdb
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\obj\Debug\net7.0\Optativo Api.genruntimeconfig.cache
+C:\Users\aleja_7j3yrdb\Escritorio\Archivos\Personal\Universidad\Optativo III\TercerParcial\TercerParcial\Optativo Api\obj\Debug\net7.0\ref\Optativo Api.dll

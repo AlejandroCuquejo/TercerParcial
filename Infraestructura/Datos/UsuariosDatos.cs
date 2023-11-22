@@ -37,7 +37,10 @@ public class UsuariosDatos
                     nombre = reader.GetString("nombre"),
                     apellido = reader.GetString("apellido"),
                     nro_documento = reader.GetString("nro_documento"),
-                    direccion = reader.GetString("direccion"),          
+                    direccion = reader.GetString("direccion"),
+                    email = reader.GetString("email"),          
+                    celular = reader.GetString("celular"),          
+                    estado = reader.GetString("estado"),
                 }
             });
         }

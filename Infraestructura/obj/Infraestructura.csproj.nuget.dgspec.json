@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aleja_7j3yrdb\\Escritorio\\Archivos\\Personal\\Universidad\\Optativo III\\TercerParcial\\TercerParcial\\Infraestructura\\Infraestructura.csproj": {}
+    "C:\\Users\\aleja_7j3yrdb\\Escritorio\\TercerParcial\\Infraestructura\\Infraestructura.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aleja_7j3yrdb\\Escritorio\\Archivos\\Personal\\Universidad\\Optativo III\\TercerParcial\\TercerParcial\\Infraestructura\\Infraestructura.csproj": {
+    "C:\\Users\\aleja_7j3yrdb\\Escritorio\\TercerParcial\\Infraestructura\\Infraestructura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aleja_7j3yrdb\\Escritorio\\Archivos\\Personal\\Universidad\\Optativo III\\TercerParcial\\TercerParcial\\Infraestructura\\Infraestructura.csproj",
+        "projectUniqueName": "C:\\Users\\aleja_7j3yrdb\\Escritorio\\TercerParcial\\Infraestructura\\Infraestructura.csproj",
         "projectName": "Infraestructura",
-        "projectPath": "C:\\Users\\aleja_7j3yrdb\\Escritorio\\Archivos\\Personal\\Universidad\\Optativo III\\TercerParcial\\TercerParcial\\Infraestructura\\Infraestructura.csproj",
+        "projectPath": "C:\\Users\\aleja_7j3yrdb\\Escritorio\\TercerParcial\\Infraestructura\\Infraestructura.csproj",
         "packagesPath": "C:\\Users\\aleja_7j3yrdb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aleja_7j3yrdb\\Escritorio\\Archivos\\Personal\\Universidad\\Optativo III\\TercerParcial\\TercerParcial\\Infraestructura\\obj\\",
+        "outputPath": "C:\\Users\\aleja_7j3yrdb\\Escritorio\\TercerParcial\\Infraestructura\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aleja_7j3yrdb\\AppData\\Roaming\\NuGet\\NuGet.Config"

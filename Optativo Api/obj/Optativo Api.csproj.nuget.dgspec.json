@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aleja_7j3yrdb\\Escritorio\\Archivos\\Personal\\Universidad\\Optativo III\\TercerParcial\\TercerParcial\\Optativo Api\\Optativo Api.csproj": {}
+    "C:\\Users\\aleja_7j3yrdb\\Escritorio\\TercerParcial\\Optativo Api\\Optativo Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aleja_7j3yrdb\\Escritorio\\Archivos\\Personal\\Universidad\\Optativo III\\TercerParcial\\TercerParcial\\Infraestructura\\Infraestructura.csproj": {
+    "C:\\Users\\aleja_7j3yrdb\\Escritorio\\TercerParcial\\Infraestructura\\Infraestructura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aleja_7j3yrdb\\Escritorio\\Archivos\\Personal\\Universidad\\Optativo III\\TercerParcial\\TercerParcial\\Infraestructura\\Infraestructura.csproj",
+        "projectUniqueName": "C:\\Users\\aleja_7j3yrdb\\Escritorio\\TercerParcial\\Infraestructura\\Infraestructura.csproj",
         "projectName": "Infraestructura",
-        "projectPath": "C:\\Users\\aleja_7j3yrdb\\Escritorio\\Archivos\\Personal\\Universidad\\Optativo III\\TercerParcial\\TercerParcial\\Infraestructura\\Infraestructura.csproj",
+        "projectPath": "C:\\Users\\aleja_7j3yrdb\\Escritorio\\TercerParcial\\Infraestructura\\Infraestructura.csproj",
         "packagesPath": "C:\\Users\\aleja_7j3yrdb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aleja_7j3yrdb\\Escritorio\\Archivos\\Personal\\Universidad\\Optativo III\\TercerParcial\\TercerParcial\\Infraestructura\\obj\\",
+        "outputPath": "C:\\Users\\aleja_7j3yrdb\\Escritorio\\TercerParcial\\Infraestructura\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aleja_7j3yrdb\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\aleja_7j3yrdb\\Escritorio\\Archivos\\Personal\\Universidad\\Optativo III\\TercerParcial\\TercerParcial\\Optativo Api\\Optativo Api.csproj": {
+    "C:\\Users\\aleja_7j3yrdb\\Escritorio\\TercerParcial\\Optativo Api\\Optativo Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aleja_7j3yrdb\\Escritorio\\Archivos\\Personal\\Universidad\\Optativo III\\TercerParcial\\TercerParcial\\Optativo Api\\Optativo Api.csproj",
+        "projectUniqueName": "C:\\Users\\aleja_7j3yrdb\\Escritorio\\TercerParcial\\Optativo Api\\Optativo Api.csproj",
         "projectName": "Optativo Api",
-        "projectPath": "C:\\Users\\aleja_7j3yrdb\\Escritorio\\Archivos\\Personal\\Universidad\\Optativo III\\TercerParcial\\TercerParcial\\Optativo Api\\Optativo Api.csproj",
+        "projectPath": "C:\\Users\\aleja_7j3yrdb\\Escritorio\\TercerParcial\\Optativo Api\\Optativo Api.csproj",
         "packagesPath": "C:\\Users\\aleja_7j3yrdb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aleja_7j3yrdb\\Escritorio\\Archivos\\Personal\\Universidad\\Optativo III\\TercerParcial\\TercerParcial\\Optativo Api\\obj\\",
+        "outputPath": "C:\\Users\\aleja_7j3yrdb\\Escritorio\\TercerParcial\\Optativo Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aleja_7j3yrdb\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -86,8 +86,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\aleja_7j3yrdb\\Escritorio\\Archivos\\Personal\\Universidad\\Optativo III\\TercerParcial\\TercerParcial\\Servicios\\Servicios.csproj": {
-                "projectPath": "C:\\Users\\aleja_7j3yrdb\\Escritorio\\Archivos\\Personal\\Universidad\\Optativo III\\TercerParcial\\TercerParcial\\Servicios\\Servicios.csproj"
+              "C:\\Users\\aleja_7j3yrdb\\Escritorio\\TercerParcial\\Servicios\\Servicios.csproj": {
+                "projectPath": "C:\\Users\\aleja_7j3yrdb\\Escritorio\\TercerParcial\\Servicios\\Servicios.csproj"
               }
             }
           }
@@ -102,13 +102,25 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "JWT": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.9, )"
             },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.0.3, )"
             }
           },
           "imports": [
@@ -134,14 +146,14 @@
         }
       }
     },
-    "C:\\Users\\aleja_7j3yrdb\\Escritorio\\Archivos\\Personal\\Universidad\\Optativo III\\TercerParcial\\TercerParcial\\Servicios\\Servicios.csproj": {
+    "C:\\Users\\aleja_7j3yrdb\\Escritorio\\TercerParcial\\Servicios\\Servicios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aleja_7j3yrdb\\Escritorio\\Archivos\\Personal\\Universidad\\Optativo III\\TercerParcial\\TercerParcial\\Servicios\\Servicios.csproj",
+        "projectUniqueName": "C:\\Users\\aleja_7j3yrdb\\Escritorio\\TercerParcial\\Servicios\\Servicios.csproj",
         "projectName": "Servicios",
-        "projectPath": "C:\\Users\\aleja_7j3yrdb\\Escritorio\\Archivos\\Personal\\Universidad\\Optativo III\\TercerParcial\\TercerParcial\\Servicios\\Servicios.csproj",
+        "projectPath": "C:\\Users\\aleja_7j3yrdb\\Escritorio\\TercerParcial\\Servicios\\Servicios.csproj",
         "packagesPath": "C:\\Users\\aleja_7j3yrdb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aleja_7j3yrdb\\Escritorio\\Archivos\\Personal\\Universidad\\Optativo III\\TercerParcial\\TercerParcial\\Servicios\\obj\\",
+        "outputPath": "C:\\Users\\aleja_7j3yrdb\\Escritorio\\TercerParcial\\Servicios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aleja_7j3yrdb\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -156,8 +168,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\aleja_7j3yrdb\\Escritorio\\Archivos\\Personal\\Universidad\\Optativo III\\TercerParcial\\TercerParcial\\Infraestructura\\Infraestructura.csproj": {
-                "projectPath": "C:\\Users\\aleja_7j3yrdb\\Escritorio\\Archivos\\Personal\\Universidad\\Optativo III\\TercerParcial\\TercerParcial\\Infraestructura\\Infraestructura.csproj"
+              "C:\\Users\\aleja_7j3yrdb\\Escritorio\\TercerParcial\\Infraestructura\\Infraestructura.csproj": {
+                "projectPath": "C:\\Users\\aleja_7j3yrdb\\Escritorio\\TercerParcial\\Infraestructura\\Infraestructura.csproj"
               }
             }
           }

@@ -33,10 +33,10 @@ public class UsuariosController : Controller {
     //
     
     
-    //Insertar persona - Basico
+    //Insertar usuario - Basico
     //
     [HttpPost("RegistrarUsuarios")]
-    public IActionResult RegistrarPersona([FromBody] Models.UsuariosModels modelo)
+    public IActionResult RegistrarUsuarios([FromBody] Models.UsuariosModels modelo)
     {
         usuariosService.RegistrarUsuarios(
             new Infraestructura.Modelos.UsuariosModel()
@@ -56,8 +56,8 @@ public class UsuariosController : Controller {
     
     //Modificar Usuarios
     //
-    [HttpPut("modificarPersonaPorId")]
-    public IActionResult modificarPersonaPorId([FromBody] Infraestructura.Modelos.UsuariosModel modelo) {
+    [HttpPut("modificarUsuariosPorId")]
+    public IActionResult modificarUsuariosPorId([FromBody] Infraestructura.Modelos.UsuariosModel modelo) {
         try {
             usuariosService.modificarUsuariosPorId(modelo);
         }

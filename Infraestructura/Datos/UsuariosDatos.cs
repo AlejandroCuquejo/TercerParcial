@@ -115,10 +115,13 @@ public class UsuariosDatos
           return null ;
       }
       
-      public UsuariosModel obtenerNombreUsuario(string  username)
+      public UsuariosModel obtenerNombreUsuario(string username)
       {
           var conn = conexion.GetConexion();
-          var comando = new Npgsql.NpgsqlCommand($"SELECT * FROM usuarios WHERE nombre_usuario = '{username}'", conn);
+          var comando = new Npgsql.NpgsqlCommand(
+              $"SELECT u.*, p.* FROM usuarios u " +
+              $"INNER JOIN persona p ON u.id_persona = p.id_persona " +
+              $"WHERE u.nombre_usuario = '{username}'", conn);
 
           using var reader = comando.ExecuteReader();
           if (reader.Read())
@@ -130,10 +133,20 @@ public class UsuariosDatos
                   nombre_usuario = reader.GetString("nombre_usuario"),
                   nivel = reader.GetString("nivel"),
                   estado = reader.GetString("estado"),
-                  contrasena= reader.GetString("contrasena")
+                  contrasena = reader.GetString("contrasena"),
+                  persona = new PersonaModel()
+                  {
+                      id_persona = reader.GetInt32("id_persona"),
+                      nombre = reader.GetString("nombre"),
+                      apellido = reader.GetString("apellido"),
+                      nro_documento = reader.GetString("nro_documento"),
+                      direccion = reader.GetString("direccion"),
+                      email = reader.GetString("email")
+                  }
               };
           }
           return null;
       }
+
 
 }

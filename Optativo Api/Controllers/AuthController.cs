@@ -45,7 +45,6 @@ namespace WebApi.Controllers
             var credentials = new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256);
             var claims = new[]
             {
-                new Claim(JwtRegisteredClaimNames.Sub, usuario.nombre_usuario),
                 new Claim(JwtRegisteredClaimNames.Name, usuario.persona?.nombre ?? ""),
                 new Claim(JwtRegisteredClaimNames.FamilyName, usuario.persona?.apellido ?? ""),
                 new Claim(JwtRegisteredClaimNames.Email, usuario.persona?.email ?? ""),

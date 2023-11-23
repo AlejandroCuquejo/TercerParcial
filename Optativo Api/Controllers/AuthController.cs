@@ -3,17 +3,23 @@ using System.Security.Claims;
 using System.Text;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
+using Servicios.ContactosService;
 
 namespace WebApi.Controllers;
 [Route("api/[controller]")]
 [Controller]
 public class AuthController : Controller
 {
+    private const string connectionString = ("Server=localhost;Port=5432;UserId=postgres;Password=6408;Database=TercerParcial;");
+    
     private  readonly IConfiguration _configuracion;
-
+    private UsuariosService _usuariosService;
+    
     public AuthController(IConfiguration configuration)
     {
         _configuracion = configuration;
+        _usuariosService = new UsuariosService(connectionString);
+
     }
     
     [HttpPost("login")]
@@ -53,7 +59,12 @@ public class AuthController : Controller
 
     private bool validUser(LoginModel login)
     {
-        return login.UserName == "admin" && login.Password == "12345";
+        var usuario = _usuariosService.obtenerNombreUsuario(login.UserName);
+        if (usuario.contrasena == login.Password)
+        {
+            return true;
+        }
+        return false;
     }
 
     public class LoginModel

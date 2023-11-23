@@ -114,5 +114,26 @@ public class UsuariosDatos
           using var reader = comando.ExecuteReader();
           return null ;
       }
+      
+      public UsuariosModel obtenerNombreUsuario(string  username)
+      {
+          var conn = conexion.GetConexion();
+          var comando = new Npgsql.NpgsqlCommand($"SELECT * FROM usuarios WHERE nombre_usuario = '{username}'", conn);
+
+          using var reader = comando.ExecuteReader();
+          if (reader.Read())
+          {
+              return new UsuariosModel
+              {
+                  id_usuarios = reader.GetInt32("id_usuarios"),
+                  id_persona = reader.GetInt32("id_persona"),
+                  nombre_usuario = reader.GetString("nombre_usuario"),
+                  nivel = reader.GetString("nivel"),
+                  estado = reader.GetString("estado"),
+                  contrasena= reader.GetString("contrasena")
+              };
+          }
+          return null;
+      }
 
 }

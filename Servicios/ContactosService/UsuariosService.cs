@@ -37,6 +37,12 @@ public class UsuariosService
         return usuariosDatos.EliminarUsuariosPorId(id);
     }
     
+    public UsuariosModel obtenerNombreUsuario(string username)
+    {
+        return usuariosDatos.obtenerNombreUsuario(username);
+    }
+
+    
     private void validarDatos(UsuariosModel usuarios)
     {
         if(usuarios.nombre_usuario.Trim().Length < 2 )
